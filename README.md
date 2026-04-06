@@ -1,2 +1,2 @@
 # product_assetbundle_project
-this is asset bundle practice-01 verison
+this is production asset bundle practice-01 verison
